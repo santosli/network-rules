@@ -1,0 +1,21 @@
+Network Rules
+Copyright (c) 2026 santosli
+SPDX-License-Identifier: GPL-3.0-or-later
+
+The Microsoft domain expansion is derived from a local GEOSITE data snapshot.
+Its exact producer and build revision cannot be determined from the local
+binary alone. Relevant upstream projects and their current license notices:
+
+MetaCubeX/meta-rules-dat
+https://github.com/MetaCubeX/meta-rules-dat
+GNU General Public License v3.0 (see LICENSE).
+
+v2fly/domain-list-community
+https://github.com/v2fly/domain-list-community
+Copyright (c) 2018-2019 V2Ray
+MIT License (see LICENSE-MIT-V2RAY).
+
+Quantumult X syntax was checked against its official configuration examples:
+https://github.com/crossutility/Quantumult-X/blob/master/sample.conf
+
+This resource is a static routing snapshot, not an official upstream build.
